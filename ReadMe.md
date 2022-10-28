@@ -1,6 +1,7 @@
 
-# Week taks 4
-Design a reponsive website
+# Week
+how to use git and git hub
+
 
 
 
